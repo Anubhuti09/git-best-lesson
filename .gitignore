@@ -1,0 +1,4 @@
+*.log
+myexcel.xls
+/dir/
+static/dir
